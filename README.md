@@ -1,9 +1,9 @@
-== ruby-scripts
+# ruby-scripts
 
 ## prerequisite
 
 * Ruby version 2.0.0 or higher
-* aws gem
+* AWS SDK for ruby
 
 `$ gem install aws`
 
